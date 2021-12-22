@@ -1,0 +1,125 @@
+body {
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+header {
+   
+    background-color: #466995;
+    
+   position: fixed;
+    width:10%;
+   
+   
+   
+  
+
+}
+
+ul {
+    margin: 30px auto;
+    padding:0 20px;
+    text-align: center;
+
+}
+li {
+color: white;
+font-family: 'Oswald', sans-serif;
+font-size: 16px;
+font-weight: 300;
+text-transform: uppercase;
+
+}
+li:hover {
+    color:#dbe9ee;
+    cursor:pointer;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: 'Oswald', sans-serif;
+    font-weight: 300px;
+    text-transform: uppercase;
+}
+h2 {
+    color: #333;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 26px;
+    font-weight: 100;
+    margin: 0 auto 20px auto;
+  }
+  h3 {
+    color: #466995;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 30px;
+  }
+  h4 {
+      color: #466995;
+      font-family: 'Oswald', sans-serif;
+      font-size: 18px;
+      text-align: center;
+      font-weight: 300;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+
+  }
+  p{
+     
+      font-family: 'Varela round', sans-serif;
+      font-size:18px; 
+  
+    }
+    footer{
+        background-color: #dbe9ee;
+        text-align: center;
+
+    }
+    .welcome {
+        background-color: #232525;
+        box-sizing: border-box;
+        
+        padding: 40px;
+        text-align: center;
+        
+        width: 100%
+        
+        }
+        .welcome p{
+            color:white;
+        }
+    .question{
+       background-color: lightgray;
+        text-align: center;
+        border: 1px solid blue;
+        width:500px;
+        margin:5px auto;
+        top:100px;
+        
+
+    }
+    .answer{
+       
+        text-align: center;
+        size-adjust: 20px;
+        border:2px solid blue;
+        width: 500px;
+        margin: 20px auto;
+
+    }
+    .answer:hover{
+        background: #c0d6df;
+        color: #fff;
+        cursor:pointer;
+
+    }
+    a:link {
+      
+        text-decoration: none;
+    }
+  
+     a:hover{ 
+       color: red;
+    }
